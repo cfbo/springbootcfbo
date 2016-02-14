@@ -1,0 +1,9 @@
+.metadata
+Servers
+**/target
+**/.classpath
+**/.settings
+**/.mvn
+**/.apt_generated
+**/.factorypath
+**/.project
